@@ -1,4 +1,4 @@
-///Get full Name
+// Get full Name
 
 // function fullName(firstName, lastName) {
 //   return firstName + " " + lastName;
